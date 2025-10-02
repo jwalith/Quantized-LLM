@@ -1,0 +1,4 @@
+# LLM Benchmark Log - Redmi Note 7
+# Format: dtype,timestamp,ttft_ms,tokens,tps,peak_mem_mb,avg_mem_mb,prompt_chars,response_chars
+Q4_K_M,2025-08-12_01:49:33,18791,236,2.21,2428,2097,48,1172
+Q3_K_M,2025-08-12_01:56:26,18536,93,2.13,2119,2040,48,492
